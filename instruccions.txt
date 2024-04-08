@@ -6,3 +6,8 @@ git status
 
 Obtener el estado del repo: wWorking, Staging o Repository.
 
+
+Saging
+git add .    // Agrego todo
+git add mi archivo.ext   // Agrego solo el archivo
+
