@@ -16,4 +16,9 @@ Repository
 git commit -m "mensaje descriptivo del nodo"
 
 
+Pra ver los commit's 
+git log --oneline  //ver cada commit en una sola linea
+git log --all // para ver todos los commit's 
 
+Para cambiar de commit 
+git checkout[numero de commit]
