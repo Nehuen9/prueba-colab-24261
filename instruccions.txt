@@ -1,0 +1,8 @@
+git init [nombre -opcional]
+
+para crear el repo local, opcionalmente puedo crear la carpeta.
+
+git status 
+
+Obtener el estado del repo: wWorking, Staging o Repository.
+
