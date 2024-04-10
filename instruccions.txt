@@ -22,3 +22,5 @@ git log --all // para ver todos los commit's
 
 Para cambiar de commit (tambien para ramas)
 git checkout[numero de commit]
+
+
